@@ -1,7 +1,0 @@
-# StudentPy
-# Class 10 - File Handling
-# Program: Read a File Line by Line
-
-with open("student.txt", "r") as file:
-    for line in file:
-        print(line.strip())
